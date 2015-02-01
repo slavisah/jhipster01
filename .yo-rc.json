@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipster01",
+    "packageName": "net.hrkac.jhipster01",
+    "packageFolder": "net/hrkac/jhipster01",
+    "authenticationType": "oauth2",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7"
+  }
+}
