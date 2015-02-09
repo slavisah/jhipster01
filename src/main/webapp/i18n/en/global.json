@@ -6,6 +6,8 @@
             "home": "Home",
             "entities": {
                 "main": "Entities",
+                "author": "Author",
+                "book": "Book",
                 "additionalEntity": "JHipster will add addtional entities"
             },
             "account": {
@@ -86,5 +88,5 @@
             "title": "Confirm delete operation"
         }
     },
-    "footer": "This is your footer"
+    "footer": "(c) hrkac.net"
 }
