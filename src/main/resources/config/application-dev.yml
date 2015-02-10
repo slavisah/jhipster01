@@ -1,5 +1,5 @@
 server:
-    port: 8080
+    port: 8088
 
 spring:
     profiles:
@@ -28,7 +28,7 @@ spring:
             hibernate.generate_statistics: true
 
     mail:
-        baseUrl: http://localhost:8080
+        baseUrl: http://localhost:8088
 
     thymeleaf:
         mode: XHTML
